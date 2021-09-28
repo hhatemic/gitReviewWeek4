@@ -1,4 +1,4 @@
 # Working With Git - Breaking Stuff!
 
-your ruinnin it!
+Adding html text to index.html
 
