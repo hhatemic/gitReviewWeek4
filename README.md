@@ -1,5 +1,6 @@
 # Working With Git - Breaking Stuff!
 
-I am doing stuff :)
+
+Adding html text to index.html
 
 
